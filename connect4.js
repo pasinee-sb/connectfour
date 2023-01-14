@@ -4,9 +4,6 @@
  * column until a player gets four-in-a-row (horiz, vert, or diag) or until
  * board fills (tie)
  */
-
-
-
 class Game {
   constructor (p1, p2){
     //make array of players
